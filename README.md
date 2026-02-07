@@ -2,8 +2,7 @@
 
 <div align="center">
   
-# 👋 Hi, I'm Taehwan Jung<!--
-**taehwan-jung/taehwan-jung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm Taehwan Jung
 
 ### Data Engineer | Melbourne, Australia 🇦🇺
 
@@ -135,6 +134,6 @@
 ### 💡 Open to opportunities in Data Engineering, Analytics Engineering, and related roles
 
 </div>
-```
+
 
 
