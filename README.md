@@ -108,7 +108,7 @@
 
 ## 💼 Professional Experience
 
-**Sales Consultant** | Tesla Korea (Feb 2021 - Aug 2022)
+**Sales Representative** | Tesla Korea (Feb 2021 - Aug 2022)
 - Translated complex technical features into clear customer value propositions
 - Analyzed customer behavior patterns to optimize sales funnel
 - Consistently achieved quarterly KPI targets through data-driven approach
