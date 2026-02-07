@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <div align="center">
   
 # 👋 Hi, I'm Taehwan Jung
