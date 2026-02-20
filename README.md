@@ -14,15 +14,13 @@
 
 - 🎓 **Master of Data Science** from Deakin University (Feb 2025)
 - 💼 Graduate Visa holder **(valid until April 2027)** - authorized to work without sponsorship
-- 🚀 Built real-time data pipelines achieving **207% performance improvement**
-- 📍 Based in **Melbourne, VIC**
 - 🌱 Currently exploring opportunities in Data Engineering and Analytics
 
 ---
 
 ## 💼 Current Focus
 
-- 🔍 Seeking **Junior/Graduate Data Engineer** roles in Melbourne
+- 🔍 Seeking **Junior/Graduate Data Engineer** roles 
 - 📚 Deepening expertise in **cloud data platforms** (AWS, Azure)
 - 🛠️ Building production-grade data infrastructure projects
 - 🤝 Open to **contract, internship, or permanent** positions
